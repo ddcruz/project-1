@@ -20,23 +20,21 @@ For airline travel to and from Austin Bergstrom Airport (AUS) ascertain growth b
 
 
 ## Data Sources:
+### Bureau of Transportation Statistics: www.bts.gov
 https://www.bts.gov/topics/airlines-and-airports-0
-
-
-## Data Sets to be Used
+* Available data included fares, passenger counts, and destinations
 https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-1a-All-U-S-Airport-P/tfrh-tu9e
 
-### Special notes for the columns:
-passengers: Passenger Per day
+### City of Austin: data.austintexas.gov
+*Available data included passenger counts and customer surveys
+
 
 ## Data Range
 * 2007 thru 2017
 
 ## Rough Breakdown of Tasks 
-Alan worked on the line chart 
-Mary worked on the pie chart
-Dexter worked on the scatter plots, and heatmap
-Michael worked on the powerpoint slide deck
-
-
+Alan worked on the line charts and the powerpoint slide deck
+Mary worked on the pie charts
+Dexter worked on the scatter plots, and heatmaps
+Michael conceptualized the project and verified passenger counts
 
